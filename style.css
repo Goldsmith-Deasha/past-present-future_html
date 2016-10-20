@@ -1,0 +1,42 @@
+
+body {
+  font-size: 18px;
+  font-family: 'Roboto Slab', serif;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1000px;
+  padding: 9px;
+  background-color: #161c3c;
+
+}
+
+section {
+  clear: both;
+}
+
+p{
+  font color; #1879ba;
+}
+
+
+h1 {
+  font-size: 36px;
+}
+
+h2 {
+
+line-height: 1.9
+}
+
+img {
+  max-width: 50%;
+
+}
+
+img.left {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+img.right {
